@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- LineageOS Mod -->
+
+  <project path="frameworks/base" name="Rush-er/android_frameworks_base" revision="lineage-18.1" remote="github"/>
+  <project path="vendor/lineage" name="Rush-er/android_vendor_lineage" revision="lineage-18.1" remote="github"/>
+  <project path="packages/apps/Settings" name="Rush-er/packages_apps_Settings" revision="lineage-18.1" remote="github"/>
+  <project path="packages/apps/Trebuchet" name="Rush-er/android_packages_apps_Trebuchet" revision="lineage-18.1" remote="github"/>
+  
+  <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-18.1" remote="github"/>
+  
+  <project path="device/xiaomi/davinci" name="Rush-er/android_device_xiaomi_davinci" revision="lineage-18.1" remote="github"/>
+  <project path="kernel/xiaomi/sm6150" name="Rush-er/android_kernel_xiaomi_sm6150" revision="lineage-18.1" remote="github"/>
+  <project path="vendor/xiaomi/davinci" name="ArianK16a/proprietary_vendor_xiaomi_davinci" revision="lineage-18.1" remote="github"/>
+
+</manifest>
