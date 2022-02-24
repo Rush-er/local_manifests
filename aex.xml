@@ -6,7 +6,7 @@
   <project path="vendor/xiaomi" name="xiaomi-sm6150/android_vendor_xiaomi" revision="lineage-19.0" remote="github"/>
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-19.0" remote="github"/>
   <project path="device/xiaomi/davinci" name="Rush-er-Device/android_device_xiaomi_davinci" revision="lineage-19.0" remote="github"/>
-  <project path="device/xiaomi/sm6150-common" name="xiaomi-sm6150/android_device_xiaomi_sm6150-common" revision="lineage-19.0" remote="github"/>
+  <project path="device/xiaomi/sm6150-common" name="Rush-er-Device/android_device_xiaomi_sm6150-common" revision="lineage-19.0" remote="github"/>
   <project path="kernel/xiaomi/sm6150" name="ArianK16a/android_kernel_xiaomi_sm6150" revision="lineage-19.0" remote="github"/>
 
 </manifest>
